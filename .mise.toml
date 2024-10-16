@@ -1,0 +1,7 @@
+# This file is used to specify the language/tool version to be used for the project.
+# Mise will automatically detect the project's language/tool based on the files present and set the version accordingly.
+
+# https://mise.dev/docs/configuration
+
+[tools]
+python = "3.12"
